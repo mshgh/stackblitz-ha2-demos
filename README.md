@@ -1,6 +1,6 @@
 # Hyperapp v2 (alpha) Demos
 
-* 2.1.0 @[StackBlitz](https://github.com/mshgh/stackblitz-ha2-demos/tree/v2.1.0)
+* 2.1.0 @[StackBlitz](https://stackblitz.com/github/mshgh/stackblitz-ha2-demos/tree/v2.1.1)
 
   Demos
   * Getting started ([origin](https://www.npmjs.com/package/hyperapp/v/2.0.0-alpha.7))
