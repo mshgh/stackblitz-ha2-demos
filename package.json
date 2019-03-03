@@ -1,0 +1,8 @@
+{
+  "name": "mshgh-ha2-demos",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "hyperapp": "2.0.0-alpha.7"
+  }
+}
