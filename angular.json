@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "projects": {
+      "mshgh-ha2-demos": {
+          "architect": {
+              "build": {
+                  "options": {
+                      "main": "index.js"
+                  }
+              }
+          }
+      }
+  },
+  "defaultProject": "mshgh-ha2-demos"
+}
